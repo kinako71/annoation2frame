@@ -7,10 +7,17 @@ This repository provides programs which links human annotations to each frame of
 Please install ffprobe and python.
 Pandas, numpy and ffmpeg packages are required.
 
-### Annoation
+### Step0 - Annotation
+
 In this script, ELAN usage is assumed.
 Please output ELAN annotation as shown in the figure below.
 ![test](elan_output.png)
+
+Finally output text format should be like below.
+If you use other annotation tools, please adjust to this format.
+| Begin Time - hh:mm:ss.ms | End Time - hh:mm:ss.ms | annotation_1 | ... | annotation_N |
+|--------------------------|------------------------|-------|-----------|-----------|
+| | | | | |
 
 ### Step1 - Get data of each frame
 
