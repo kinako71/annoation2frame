@@ -7,6 +7,9 @@ This repository provides programs which links human annotations to each frame of
 Please install ffprobe and python.
 Pandas, numpy and ffmpeg packages are required.
 
+### Tutorial Video (Jump to YouTube)
+[![Tutorial Video](https://github.com/user-attachments/assets/7f647820-7dfc-4644-9614-b9f43862466a)](https://youtu.be/Qv5YiqqgN2U?si=0Y-xy_Qn-_8j04Q4)
+
 ### Step0 - Annotation
 
 In this script, ELAN usage is assumed.
