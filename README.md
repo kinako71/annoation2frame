@@ -52,3 +52,11 @@ We process each row in ELAN annotation in for loops.
 In each raw, find the frame index of which “pts_time” is closest to “Begin Time” (begin_ind)
 Similarly, find the frame index of which “pts_time” is closest to “End Time”(end_ind)
 Fill frames between begin_ind and end_ind with the annotation of the row.
+
+## Reference
+We use the video below as Sample video data.  
+OSF: https://osf.io/2n3j7  
+VIDEO: study-57bc591dc0d9d70055f775db_child-111e4f19_video-c6f3fd28_privacy-public_video.mp4  
+
+The data is from the gaze estimation research conducted by Erel et al. (2022).  
+Erel, Y., Shannon, K. A., Chu, J., Scott, K., Struhl, M. K., Cao, P., ... & Liu, S. (2022). iCatcher+: Robust and automated annotation of infant's and young children's gaze direction from videos collected in laboratory, field, and online studies.
