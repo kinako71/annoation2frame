@@ -54,9 +54,9 @@ Similarly, find the frame index of which “pts_time” is closest to “End Tim
 Fill frames between begin_ind and end_ind with the annotation of the row.
 
 ## Reference
-We use the video below as Sample video data.  
+We used the following video as Sample video data.
 OSF: https://osf.io/2n3j7  
 VIDEO: study-57bc591dc0d9d70055f775db_child-111e4f19_video-c6f3fd28_privacy-public_video.mp4  
 
-The data is from the gaze estimation research conducted by Erel et al. (2022).  
-Erel, Y., Shannon, K. A., Chu, J., Scott, K., Struhl, M. K., Cao, P., ... & Liu, S. (2022). iCatcher+: Robust and automated annotation of infant's and young children's gaze direction from videos collected in laboratory, field, and online studies.
+This video is from the gaze estimation research conducted by Erel et al. (2022).  
+Erel, Y., Shannon, K. A., Chu, J., Scott, K., Kline Struhl, M., Cao, P., Tan, X., Hart, P., Raz, G., Piccolo, S., Mei, C., Potter, C., Jaffe-Dax, S., Lew-Williams, C., Tenenbaum, J., Fairchild, K., Bermano, A., & Liu, S. (2023). iCatcher+: Robust and automated annotation of infants’ and young children’s gaze behavior from videos collected in laboratory, field, and online studies. *Advances in Methods and Practices in Psychological Science*, *6*(2), 251524592211472. https://doi.org/10.1177/25152459221147250 [https://doi.org/10.1177/25152459221147250]
